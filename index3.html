@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="Starter">
+	<meta name="author" content="Admin">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+	<title>Poltava Air</title>
+
+	<link rel="icon" href="images/favicon.png">
+	<link href="https://fonts.googleapis.com/css?family=PT+Sans|Raleway" rel="stylesheet">
+	<link rel="stylesheet" href="css/styles.min.css">
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<header class="header">
+		<div class="header__container">
+			<div class="head d-flex justify-content-between align-items-center">
+				<img src="images/main-logo.svg" alt="logo" class="head__logo">
+				<p class="head__text">Международный аэропорт Полтава</p>
+				<a href="tel:+3800532502415" class="head__tel">+38(0532)50-24-15</a>
+				<a href="" class="head__login">Войти</a>
+				<div class="head__lang">
+					<button class="head__lang-btn btn shadow-sm">EN</button>
+					<button class="head__lang-btn btn shadow-sm">RU</button>
+				</div>
+			</div>
+			<div class="booking__breadcrumbs d-flex">
+				<a href="index.html">Главная</a><i>/</i>
+				<a href="#">Найти Билеты</a><i>/</i>
+				<a href="#" class="booking__breadcrumbs-this">Купить</a>
+			</div>
+			<div class="booking__info d-flex align-items-center">
+
+			</div>
+			<h2 class="booking__title">Бронирование Билетов</h2>
+			<p class="booking__description">Пассажир</p>
+			<div class="booking__person-container d-flex flex-column">
+
+			</div>
+		</div>
+	</header>
+	<section class="booking">
+		<div class="booking__container">
+			<div class="booking__email d-flex">
+				<input type="email" required="required" class="field booking__email-input" placeholder="Email *">
+				<p class="booking__email-txt">
+					Билеты придут на ваш адрес электронной почты после подтверждения успешной оплаты.
+				</p>
+			</div>
+			<div class="booking__tel d-flex align-items-center">
+				<div class="booking__tel-holder d-flex align-items-center">
+					<label for="booking-tel" class="booking__tel-label">+380</label>
+					<input type="tel" name="tel" required="required" class="field booking__tel-input" id="booking-tel" placeholder="000000000 *">
+				</div>
+				<p class="booking__tel-txt">
+					На этот номер телефона прийдет код подтверждения оплаты.
+				</p>
+			</div>
+			<p class="booking__rules">
+				 <i>*</i> обязательные поля для заполнения
+			</p>
+			<div class="booking__luggage d-flex align-items-start">
+				<p class="booking__luggage-depcity">Полтава, Украина</p>
+				<p class="booking__luggage-arrcity">Kиев, Украина</p>
+				<div class="booking__luggage-image d-flex justify-content-end">
+					<img src="images/luggage-empty.svg" alt="luggage-empty" class="booking__luggage-image--img">
+				</div>
+				<p class="booking__luggage-plus">
+					<input type="number" id="spinner-luggage" name="luggage-plus" placeholder="0">
+				</p>
+				<p class="booking__luggage-price">+450 UAH</p>
+			</div>
+			<div class="booking__final-price d-flex">
+				<p class="booking__final-price--txt">Общая сумма за билеты в обе стороны</p>
+				<p class="booking__final-price--num"></p>
+			</div>
+
+		</div>
+	</section>
+	<section class="payment">
+		<div class="payment__container d-flex flex-column">
+			<div class="payment__form d-flex flex-column">
+				<div class="payment__methods d-flex justify-content-between">
+					<div class="payment__methods-holder--visa">
+						<img src="images/visa.svg" alt="visa">
+					</div>
+					<div class="payment__methods-holder--mastercard">
+						<img src="images/mastercard.svg" alt="mastercard">
+					</div>
+					<div class="payment__methods-holder--priv">
+						<img src="images/24.svg" alt="24">
+					</div>
+					<div class="payment__methods-holder--liqpay">
+						<img src="images/liqpay.svg" alt="liqpay">
+					</div>
+				</div>
+				<p class="payment__sum-txt">Сумма оплаты</p>
+				<p class="payment__sum"></p>
+				<label for="payment-person" class="payment__person-txt">Имя и фамилия владельца карты</label>
+				<input type="text" id="payment-person" class="payment__person">
+				<label for="card-number" class="payment__card">Номер Карты</label>
+				<input type="text" id="card-number" class="payment__card-number" placeholder="XXXX XXXX XXXX XXXX">
+				<div class="payment__card-info d-flex justify-content-between">
+					<div class="payment__card-term d-flex flex-column">
+						<label for="card-term" class="payment__card-term--txt">Срок действия</label>
+						<input type="text" id="card-term" class="payment__card-term--num " placeholder="MM/YY">
+					</div>
+					<div class="payment__card-cvv d-flex flex-column">
+						<label for="card-cvv" class="payment__card-cvv--txt">CVV i</label>
+						<input type="text" id="card-cvv" class="payment__card-cvv--num">
+					</div>
+				</div>
+				<label for="code" class="payment__code">Код подтверждения с мобильного телефона</label>
+				<input type="text" id="code" class="payment__code-num" placeholder="XXXX">
+				<button type="button" class="payment__btn align-self-center">Оплатить</button>
+
+			</div>
+			
+			<div class="megatest"></div>
+		</div>
+	</section>
+			
+
+
+			
+	
+	
+	<footer class="footer d-flex justify-content-between">
+		<div class="footer__item d-flex flex-column">
+			<a href="#" class="footer__item-title">Пассажирам</a>
+			<a href="#" class="footer__item-link">Популярные авиарейсы</a>
+			<a href="#" class="footer__item-link">Купить авиабилеты</a>
+			<a href="#" class="footer__item-link">Регистрация на рейс</a>
+			<a href="#" class="footer__item-link">Пассажирам с детьми</a>
+			<a href="index4.html" class="footer__item-link">Дети без сопровождения</a>
+			<a href="#" class="footer__item-link">Авиабезопасность</a>
+			<a href="#" class="footer__item-link">Перевозка животных и растений</a>
+		</div>
+		<div class="footer__item d-flex flex-column">
+			<a href="#" class="footer__item-title">Аэропорт</a>
+			<a href="#" class="footer__item-link">Общая Информация</a>
+			<a href="#" class="footer__item-link">Обратная связь</a>
+			<a href="#" class="footer__item-link">Авиакомпании</a>
+			<a href="#" class="footer__item-link">Вакансии</a>
+			<a href="#" class="footer__item-link">карта аэропорта</a>
+		</div>
+		<div class="footer__item d-flex flex-column">
+			<a href="#" class="footer__item-title">Партнерам</a>
+			<a href="#" class="footer__item-link">Авиакомпаниям</a>
+			<a href="#" class="footer__item-link">Грузовые перевозки</a>
+			<a href="#" class="footer__item-link">Рекламодателям</a>
+			<a href="#" class="footer__item-link">Арендаторам</a>
+		</div>
+	</footer>
+
+
+
+
+	<script src="js/main.js"></script>
+</body>
+</html>
+	
+		

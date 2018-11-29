@@ -1,0 +1,1072 @@
+{
+  "PoltavaKiev": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Полтава, Украина",
+      "arrivalCity": "Киев, Укриана",
+      "departureTime": "10.10",
+      "arrivalTime": "13.20",
+      "travelTime": "3 ч 10 м",
+      "priceEconom": 500,
+      "priceBussiness": 1000,
+      "departureTimeBack": "09.25",
+      "arrivalTimeBack": "12.45",
+      "travelTimeBack": "3 ч 20 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun2.svg",
+      "departureCity": "Полтава, Украина",
+      "arrivalCity": "Киев, Укриана",
+      "departureTime": "15.10",
+      "arrivalTime": "18.30",
+      "travelTime": "3 ч 20 м",
+      "priceEconom": 600,
+      "priceBussiness": 1100,
+      "departureTimeBack": "12.25",
+      "arrivalTimeBack": "15.45",
+      "travelTimeBack": "3 ч 20 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Полтава, Украина",
+      "arrivalCity": "Киев, Укриана",
+      "departureTime": "17.10",
+      "arrivalTime": "20.00",
+      "travelTime": "2 ч 50 м",
+      "priceEconom": 700,
+      "priceBussiness": 1200,
+      "departureTimeBack": "16.25",
+      "arrivalTimeBack": "19.45",
+      "travelTimeBack": "3 ч 20 м"
+    }
+  ],
+  "PoltavaHarkov": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Полтава, Украина",
+      "arrivalCity": "Харьков, Укриана",
+      "departureTime": "08.10",
+      "arrivalTime": "09.20",
+      "travelTime": "1 ч 10 м",
+      "priceEconom": 300,
+      "priceBussiness": 500,
+      "departureTimeBack": "09.20",
+      "arrivalTimeBack": "10.35",
+      "travelTimeBack": "1 ч 15 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun2.svg",
+      "departureCity": "Полтава, Украина",
+      "arrivalCity": "Харьков, Укриана",
+      "departureTime": "11.15",
+      "arrivalTime": "12.20",
+      "travelTime": "1 ч 5 м",
+      "priceEconom": 350,
+      "priceBussiness": 580,
+      "departureTimeBack": "11.20",
+      "arrivalTimeBack": "12.35",
+      "travelTimeBack": "1 ч 15 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Полтава, Украина",
+      "arrivalCity": "Харьков, Укриана",
+      "departureTime": "16.00",
+      "arrivalTime": "17.00",
+      "travelTime": "1 ч 00 м",
+      "priceEconom": 390,
+      "priceBussiness": 620,
+      "departureTimeBack": "15.20",
+      "arrivalTimeBack": "16.35",
+      "travelTimeBack": "1 ч 15 м"
+    }
+  ],
+  "PoltavaNewYork": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Полтава, Украина",
+      "arrivalCity": "Нью-Йорк, США",
+      "departureTime": "10.00",
+      "arrivalTime": "17.00",
+      "travelTime": "7 ч 00 м",
+      "priceEconom": 5000,
+      "priceBussiness": 10000,
+      "departureTimeBack": "15.20",
+      "arrivalTimeBack": "20.35",
+      "travelTimeBack": "5 ч 15 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun2.svg",
+      "departureCity": "Полтава, Украина",
+      "arrivalCity": "Нью-Йорк, США",
+      "departureTime": "11.00",
+      "arrivalTime": "18.00",
+      "travelTime": "7 ч 00 м",
+      "priceEconom": 5500,
+      "priceBussiness": 11000,
+      "departureTimeBack": "10.20",
+      "arrivalTimeBack": "15.35",
+      "travelTimeBack": "5 ч 15 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Полтава, Украина",
+      "arrivalCity": "Нью-Йорк, США",
+      "departureTime": "13.00",
+      "arrivalTime": "20.00",
+      "travelTime": "7 ч 00 м",
+      "priceEconom": 6000,
+      "priceBussiness": 13000,
+      "departureTimeBack": "16.20",
+      "arrivalTimeBack": "21.35",
+      "travelTimeBack": "5 ч 15 м"
+    }
+  ],
+  "PoltavaLondon": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Полтава, Украина",
+      "arrivalCity": "Лондон, Великобритания",
+      "departureTime": "10.00",
+      "arrivalTime": "16.00",
+      "travelTime": "6 ч 00 м",
+      "priceEconom": 5500,
+      "priceBussiness": 11000,
+      "departureTimeBack": "15.20",
+      "arrivalTimeBack": "20.35",
+      "travelTimeBack": "5 ч 15 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun2.svg",
+      "departureCity": "Полтава, Украина",
+      "arrivalCity": "Лондон, Великобритания",
+      "departureTime": "11.00",
+      "arrivalTime": "17.00",
+      "travelTime": "6 ч 00 м",
+      "priceEconom": 6200,
+      "priceBussiness": 13400,
+      "departureTimeBack": "05.20",
+      "arrivalTimeBack": "12.35",
+      "travelTimeBack": "7 ч 15 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Полтава, Украина",
+      "arrivalCity": "Лондон, Великобритания",
+      "departureTime": "13.00",
+      "arrivalTime": "19.00",
+      "travelTime": "6 ч 00 м",
+      "priceEconom": 6200,
+      "priceBussiness": 13400,
+      "departureTimeBack": "07.20",
+      "arrivalTimeBack": "14.35",
+      "travelTimeBack": "7 ч 15 м"
+    }
+  ],
+  "PoltavaStambul": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Полтава, Украина",
+      "arrivalCity": "Стамбул, Турция",
+      "departureTime": "10.00",
+      "arrivalTime": "16.00",
+      "travelTime": "6 ч 00 м",
+      "priceEconom": 4200,
+      "priceBussiness": 8900,
+      "departureTimeBack": "05.20",
+      "arrivalTimeBack": "12.35",
+      "travelTimeBack": "7 ч 15 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun2.svg",
+      "departureCity": "Полтава, Украина",
+      "arrivalCity": "Стамбул, Турция",
+      "departureTime": "11.00",
+      "arrivalTime": "17.00",
+      "travelTime": "6 ч 00 м",
+      "priceEconom": 6200,
+      "priceBussiness": 13400,
+      "departureTimeBack": "07.20",
+      "arrivalTimeBack": "14.35",
+      "travelTimeBack": "7 ч 15 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Полтава, Украина",
+      "arrivalCity": "Стамбул, Турция",
+      "departureTime": "13.00",
+      "arrivalTime": "19.00",
+      "travelTime": "6 ч 00 м",
+      "priceEconom": 7000,
+      "priceBussiness": 14000,
+      "departureTimeBack": "05.20",
+      "arrivalTimeBack": "12.35",
+      "travelTimeBack": "7 ч 15 м"
+    }
+  ],
+  "PoltavaAncara": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Полтава, Украина",
+      "arrivalCity": "Анкара, Турция",
+      "departureTime": "08.10",
+      "arrivalTime": "09.20",
+      "travelTime": "1 ч 10 м",
+      "priceEconom": 7000,
+      "priceBussiness": 14000,
+      "departureTimeBack": "05.20",
+      "arrivalTimeBack": "12.35",
+      "travelTimeBack": "7 ч 15 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun2.svg",
+      "departureCity": "Полтава, Украина",
+      "arrivalCity": "Анкара, Турция",
+      "departureTime": "11.15",
+      "arrivalTime": "12.20",
+      "travelTime": "1 ч 5 м",
+      "priceEconom": 7000,
+      "priceBussiness": 14000,
+      "departureTimeBack": "05.20",
+      "arrivalTimeBack": "12.35",
+      "travelTimeBack": "7 ч 15 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Полтава, Украина",
+      "arrivalCity": "Анкара, Турция",
+      "departureTime": "16.00",
+      "arrivalTime": "17.00",
+      "travelTime": "1 ч 00 м",
+      "priceEconom": 7000,
+      "priceBussiness": 14000,
+      "departureTimeBack": "05.20",
+      "arrivalTimeBack": "12.35",
+      "travelTimeBack": "7 ч 15 м"
+    }
+  ],
+  "HarkovKiev": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Харьков, Украина",
+      "arrivalCity": "Киев, Укриана",
+      "departureTime": "10.10",
+      "arrivalTime": "13.20",
+      "travelTime": "3 ч 10 м",
+      "priceEconom": 1000,
+      "priceBussiness": 2000,
+      "departureTimeBack": "05.20",
+      "arrivalTimeBack": "6.35",
+      "travelTimeBack": "1 ч 15 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Харьков, Украина",
+      "arrivalCity": "Киев, Укриана",
+      "departureTime": "15.10",
+      "arrivalTime": "18.30",
+      "travelTime": "3 ч 20 м",
+      "priceEconom": 1000,
+      "priceBussiness": 2000,
+      "departureTimeBack": "05.20",
+      "arrivalTimeBack": "6.35",
+      "travelTimeBack": "1 ч 15 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Харьков, Украина",
+      "arrivalCity": "Киев, Укриана",
+      "departureTime": "17.10",
+      "arrivalTime": "20.00",
+      "travelTime": "2 ч 50 м",
+      "priceEconom": 1000,
+      "priceBussiness": 2000,
+      "departureTimeBack": "05.20",
+      "arrivalTimeBack": "6.35",
+      "travelTimeBack": "1 ч 15 м"
+    }
+  ],
+  "HarkovPoltava": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Харьков, Украина",
+      "arrivalCity": "Полтава, Укриана",
+      "departureTime": "08.10",
+      "arrivalTime": "09.20",
+      "travelTime": "1 ч 10 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Харьков, Украина",
+      "arrivalCity": "Полтава, Укриана",
+      "departureTime": "11.15",
+      "arrivalTime": "12.20",
+      "travelTime": "1 ч 5 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Харьков, Украина",
+      "arrivalCity": "Полтава, Укриана",
+      "departureTime": "16.00",
+      "arrivalTime": "17.00",
+      "travelTime": "1 ч 00 м"
+    }
+  ],
+  "HarkovNewYork": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Харьков, Украина",
+      "arrivalCity": "Нью-Йорк, США",
+      "departureTime": "10.00",
+      "arrivalTime": "17.00",
+      "travelTime": "7 ч 00 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Харьков, Украина",
+      "arrivalCity": "Нью-Йорк, США",
+      "departureTime": "11.00",
+      "arrivalTime": "18.00",
+      "travelTime": "7 ч 00 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Харьков, Украина",
+      "arrivalCity": "Нью-Йорк, США",
+      "departureTime": "13.00",
+      "arrivalTime": "20.00",
+      "travelTime": "7 ч 00 м"
+    }
+  ],
+  "HarkovLondon": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Харьков, Украина",
+      "arrivalCity": "Лондон, Великобритания",
+      "departureTime": "10.00",
+      "arrivalTime": "16.00",
+      "travelTime": "6 ч 00 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Харьков, Украина",
+      "arrivalCity": "Лондон, Великобритания",
+      "departureTime": "11.00",
+      "arrivalTime": "17.00",
+      "travelTime": "6 ч 00 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Харьков, Украина",
+      "arrivalCity": "Лондон, Великобритания",
+      "departureTime": "13.00",
+      "arrivalTime": "19.00",
+      "travelTime": "6 ч 00 м"
+    }
+  ],
+  "HarkovStambul": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Харьков, Украина",
+      "arrivalCity": "Стамбул, Турция",
+      "departureTime": "10.00",
+      "arrivalTime": "16.00",
+      "travelTime": "6 ч 00 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Харьков, Украина",
+      "arrivalCity": "Стамбул, Турция",
+      "departureTime": "11.00",
+      "arrivalTime": "17.00",
+      "travelTime": "6 ч 00 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Харьков, Украина",
+      "arrivalCity": "Стамбул, Турция",
+      "departureTime": "13.00",
+      "arrivalTime": "19.00",
+      "travelTime": "6 ч 00 м"
+    }
+  ],
+  "HarkovAncara": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Харьков, Украина",
+      "arrivalCity": "Анкара, Турция",
+      "departureTime": "08.10",
+      "arrivalTime": "09.20",
+      "travelTime": "1 ч 10 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Харьков, Украина",
+      "arrivalCity": "Анкара, Турция",
+      "departureTime": "11.15",
+      "arrivalTime": "12.20",
+      "travelTime": "1 ч 5 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Харьков, Украина",
+      "arrivalCity": "Анкара, Турция",
+      "departureTime": "16.00",
+      "arrivalTime": "17.00",
+      "travelTime": "1 ч 00 м"
+    }
+  ],
+  "KievPoltava": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Киев, Украина",
+      "arrivalCity": "Полтава, Укриана",
+      "departureTime": "10.10",
+      "arrivalTime": "13.20",
+      "travelTime": "3 ч 10 м",
+      "priceEconom": 1048,
+      "priceBussiness": 2048
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Киев, Украина",
+      "arrivalCity": "Полтава, Укриана",
+      "departureTime": "15.10",
+      "arrivalTime": "18.30",
+      "travelTime": "3 ч 20 м",
+      "priceEconom": 1208,
+      "priceBussiness": 2338
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Киев, Украина",
+      "arrivalCity": "Полтава, Укриана",
+      "departureTime": "17.10",
+      "arrivalTime": "20.00",
+      "travelTime": "2 ч 50 м",
+      "priceEconom": 1300,
+      "priceBussiness": 3000
+    }
+  ],
+  "KievHarkov": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Киев, Украина",
+      "arrivalCity": "Харьков, Укриана",
+      "departureTime": "08.10",
+      "arrivalTime": "09.20",
+      "travelTime": "1 ч 10 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Киев, Украина",
+      "arrivalCity": "Харьков, Укриана",
+      "departureTime": "11.15",
+      "arrivalTime": "12.20",
+      "travelTime": "1 ч 5 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Киев, Украина",
+      "arrivalCity": "Харьков, Укриана",
+      "departureTime": "16.00",
+      "arrivalTime": "17.00",
+      "travelTime": "1 ч 00 м"
+    }
+  ],
+  "KievNewYork": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Киев, Украина",
+      "arrivalCity": "Нью-Йорк, США",
+      "departureTime": "10.00",
+      "arrivalTime": "17.00",
+      "travelTime": "7 ч 00 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Киев, Украина",
+      "arrivalCity": "Нью-Йорк, США",
+      "departureTime": "11.00",
+      "arrivalTime": "18.00",
+      "travelTime": "7 ч 00 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Киев, Украина",
+      "arrivalCity": "Нью-Йорк, США",
+      "departureTime": "13.00",
+      "arrivalTime": "20.00",
+      "travelTime": "7 ч 00 м"
+    }
+  ],
+  "KievLondon": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Киев, Украина",
+      "arrivalCity": "Лондон, Великобритания",
+      "departureTime": "10.00",
+      "arrivalTime": "16.00",
+      "travelTime": "6 ч 00 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Киев, Украина",
+      "arrivalCity": "Лондон, Великобритания",
+      "departureTime": "11.00",
+      "arrivalTime": "17.00",
+      "travelTime": "6 ч 00 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Киев, Украина",
+      "arrivalCity": "Лондон, Великобритания",
+      "departureTime": "13.00",
+      "arrivalTime": "19.00",
+      "travelTime": "6 ч 00 м"
+    }
+  ],
+  "KievStambul": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Киев, Украина",
+      "arrivalCity": "Стамбул, Турция",
+      "departureTime": "10.00",
+      "arrivalTime": "16.00",
+      "travelTime": "6 ч 00 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Киев, Украина",
+      "arrivalCity": "Стамбул, Турция",
+      "departureTime": "11.00",
+      "arrivalTime": "17.00",
+      "travelTime": "6 ч 00 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Киев, Украина",
+      "arrivalCity": "Стамбул, Турция",
+      "departureTime": "13.00",
+      "arrivalTime": "19.00",
+      "travelTime": "6 ч 00 м"
+    }
+  ],
+  "KievAncara": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Киев, Украина",
+      "arrivalCity": "Анкара, Турция",
+      "departureTime": "08.10",
+      "arrivalTime": "09.20",
+      "travelTime": "1 ч 10 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Киев, Украина",
+      "arrivalCity": "Анкара, Турция",
+      "departureTime": "11.15",
+      "arrivalTime": "12.20",
+      "travelTime": "1 ч 5 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Киев, Украина",
+      "arrivalCity": "Анкара, Турция",
+      "departureTime": "16.00",
+      "arrivalTime": "17.00",
+      "travelTime": "1 ч 00 м"
+    }
+  ],
+  "NewYorkKiev": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Нью-Йорк, США",
+      "arrivalCity": "Киев, Укриана",
+      "departureTime": "10.10",
+      "arrivalTime": "13.20",
+      "travelTime": "3 ч 10 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Нью-Йорк, США",
+      "arrivalCity": "Киев, Укриана",
+      "departureTime": "15.10",
+      "arrivalTime": "18.30",
+      "travelTime": "3 ч 20 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Нью-Йорк, США",
+      "arrivalCity": "Киев, Укриана",
+      "departureTime": "17.10",
+      "arrivalTime": "20.00",
+      "travelTime": "2 ч 50 м"
+    }
+  ],
+  "NewYorkHarkov": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Нью-Йорк, США",
+      "arrivalCity": "Харьков, Укриана",
+      "departureTime": "08.10",
+      "arrivalTime": "09.20",
+      "travelTime": "1 ч 10 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Нью-Йорк, США",
+      "arrivalCity": "Харьков, Укриана",
+      "departureTime": "11.15",
+      "arrivalTime": "12.20",
+      "travelTime": "1 ч 5 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Нью-Йорк, США",
+      "arrivalCity": "Харьков, Укриана",
+      "departureTime": "16.00",
+      "arrivalTime": "17.00",
+      "travelTime": "1 ч 00 м"
+    }
+  ],
+  "NewYorkPoltava": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Нью-Йорк, США",
+      "arrivalCity": "Полтава, Украина",
+      "departureTime": "10.00",
+      "arrivalTime": "17.00",
+      "travelTime": "7 ч 00 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Нью-Йорк, США",
+      "arrivalCity": "Полтава, Украина",
+      "departureTime": "11.00",
+      "arrivalTime": "18.00",
+      "travelTime": "7 ч 00 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Нью-Йорк, США",
+      "arrivalCity": "Полтава, Украина",
+      "departureTime": "13.00",
+      "arrivalTime": "20.00",
+      "travelTime": "7 ч 00 м"
+    }
+  ],
+  "NewYorkLondon": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Нью-Йорк, США",
+      "arrivalCity": "Лондон, Великобритания",
+      "departureTime": "10.00",
+      "arrivalTime": "16.00",
+      "travelTime": "6 ч 00 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Нью-Йорк, США",
+      "arrivalCity": "Лондон, Великобритания",
+      "departureTime": "11.00",
+      "arrivalTime": "17.00",
+      "travelTime": "6 ч 00 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Нью-Йорк, США",
+      "arrivalCity": "Лондон, Великобритания",
+      "departureTime": "13.00",
+      "arrivalTime": "19.00",
+      "travelTime": "6 ч 00 м"
+    }
+  ],
+  "NewYorkStambul": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Нью-Йорк, США",
+      "arrivalCity": "Стамбул, Турция",
+      "departureTime": "10.00",
+      "arrivalTime": "16.00",
+      "travelTime": "6 ч 00 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Нью-Йорк, США",
+      "arrivalCity": "Стамбул, Турция",
+      "departureTime": "11.00",
+      "arrivalTime": "17.00",
+      "travelTime": "6 ч 00 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Нью-Йорк, США",
+      "arrivalCity": "Стамбул, Турция",
+      "departureTime": "13.00",
+      "arrivalTime": "19.00",
+      "travelTime": "6 ч 00 м"
+    }
+  ],
+  "NewYorkAncara": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Нью-Йорк, США",
+      "arivalCity": "Анкара, Турция",
+      "departureTime": "08.10",
+      "arrivalTime": "09.20",
+      "travelTime": "1 ч 10 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Нью-Йорк, США",
+      "arivalCity": "Анкара, Турция",
+      "departureTime": "11.15",
+      "arrivalTime": "12.20",
+      "travelTime": "1 ч 5 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Нью-Йорк, США",
+      "arivalCity": "Анкара, Турция",
+      "departureTime": "16.00",
+      "arrivalTime": "17.00",
+      "travelTime": "1 ч 00 м"
+    }
+  ],
+  "LondonKiev": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Лондон, Великобритания",
+      "arrivalCity": "Киев, Укриана",
+      "departureTime": "10.10",
+      "arrivalTime": "13.20",
+      "travelTime": "3 ч 10 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Лондон, Великобритания",
+      "arrivalCity": "Киев, Укриана",
+      "departureTime": "15.10",
+      "arrivalTime": "18.30",
+      "travelTime": "3 ч 20 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Лондон, Великобритания",
+      "arrivalCity": "Киев, Укриана",
+      "departureTime": "17.10",
+      "arrivalTime": "20.00",
+      "travelTime": "2 ч 50 м"
+    }
+  ],
+  "LondonHarkov": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Лондон, Великобритания",
+      "arrivalCity": "Харьков, Укриана",
+      "departureTime": "08.10",
+      "arrivalTime": "09.20",
+      "travelTime": "1 ч 10 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Лондон, Великобритания",
+      "arrivalCity": "Харьков, Укриана",
+      "departureTime": "11.15",
+      "arrivalTime": "12.20",
+      "travelTime": "1 ч 5 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Лондон, Великобритания",
+      "arrivalCity": "Харьков, Укриана",
+      "departureTime": "16.00",
+      "arrivalTime": "17.00",
+      "travelTime": "1 ч 00 м"
+    }
+  ],
+  "LondonPoltava": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Лондон, Великобритания",
+      "arrivalCity": "Полтава, Украина",
+      "departureTime": "10.00",
+      "arrivalTime": "17.00",
+      "travelTime": "7 ч 00 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Лондон, Великобритания",
+      "arrivalCity": "Полтава, Украина",
+      "departureTime": "11.00",
+      "arrivalTime": "18.00",
+      "travelTime": "7 ч 00 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Лондон, Великобритания",
+      "arrivalCity": "Полтава, Украина",
+      "departureTime": "13.00",
+      "arrivalTime": "20.00",
+      "travelTime": "7 ч 00 м"
+    }
+  ],
+  "LondonNewYork": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Лондон, Великобритания",
+      "arrivalCity": "Нью-Йорк, СШA",
+      "departureTime": "10.00",
+      "arrivalTime": "16.00",
+      "travelTime": "6 ч 00 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Лондон, Великобритания",
+      "arrivalCity": "Нью-Йорк, США",
+      "departureTime": "11.00",
+      "arrivalTime": "17.00",
+      "travelTime": "6 ч 00 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Лондон, Великобритания",
+      "arrivalCity": "Нью-Йорк, США",
+      "departureTime": "13.00",
+      "arrivalTime": "19.00",
+      "travelTime": "6 ч 00 м"
+    }
+  ],
+  "LondonStambul": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Лондон, Великобритания",
+      "arrivalCity": "Стамбул, Турция",
+      "departureTime": "10.00",
+      "arrivalTime": "16.00",
+      "travelTime": "6 ч 00 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Лондон, Великобритания",
+      "arrivalCity": "Стамбул, Турция",
+      "departureTime": "11.00",
+      "arrivalTime": "17.00",
+      "travelTime": "6 ч 00 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Лондон, Великобритания",
+      "arrivalCity": "Стамбул, Турция",
+      "departureTime": "13.00",
+      "arrivalTime": "19.00",
+      "travelTime": "6 ч 00 м"
+    }
+  ],
+  "LondonAncara": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Лондон, Великобритания",
+      "arrivalCity": "Анкара, Турция",
+      "departureTime": "08.10",
+      "arrivalTime": "09.20",
+      "travelTime": "1 ч 10 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Лондон, Великобритания",
+      "arrivalCity": "Анкара, Турция",
+      "departureTime": "11.15",
+      "arrivalTime": "12.20",
+      "travelTime": "1 ч 5 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Лондон, Великобритания",
+      "arrivalCity": "Анкара, Турция",
+      "departureTime": "16.00",
+      "arrivalTime": "17.00",
+      "travelTime": "1 ч 00 м"
+    }
+  ],
+  "StambulKiev": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Стамбул, Турция",
+      "arrivalCity": "Киев, Украина",
+      "departureTime": "10.10",
+      "arrivalTime": "13.20",
+      "travelTime": "3 ч 10 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Стамбул, Турция",
+      "arrivalCity": "Киев, Украина",
+      "departureTime": "15.10",
+      "arrivalTime": "18.30",
+      "travelTime": "3 ч 20 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Стамбул, Турция",
+      "arrivalCity": "Киев, Украина",
+      "departureTime": "17.10",
+      "arrivalTime": "20.00",
+      "travelTime": "2 ч 50 м"
+    }
+  ],
+  "StambulHarkov": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Стамбул, Турция",
+      "arrivalCity": "Харьков, Укриана",
+      "departureTime": "08.10",
+      "arrivalTime": "09.20",
+      "travelTime": "1 ч 10 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Стамбул, Турция",
+      "arrivalCity": "Харьков, Укриана",
+      "departureTime": "11.15",
+      "arrivalTime": "12.20",
+      "travelTime": "1 ч 5 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Стамбул, Турция",
+      "arrivalCity": "Харьков, Укриана",
+      "departureTime": "16.00",
+      "arrivalTime": "17.00",
+      "travelTime": "1 ч 00 м"
+    }
+  ],
+  "StambulNewYork": [
+    {
+      "airline": "Pegasus",
+      "airlineImg": "images/pegasus.svg",
+      "departureCity": "Стамбул, Турция",
+      "arrivalCity": "Нью-Йорк, США",
+      "departureTime": "10.00",
+      "arrivalTime": "17.00",
+      "travelTime": "7 ч 00 м"
+    },
+    {
+      "airline": "SunExpress",
+      "airlineImg": "images/sun.svg",
+      "departureCity": "Стамбул, Турция",
+      "arrivalCity": "Нью-Йорк, США",
+      "departureTime": "11.00",
+      "arrivalTime": "18.00",
+      "travelTime": "7 ч 00 м"
+    },
+    {
+      "airline": "Wizzair",
+      "airlineImg": "images/wizz-air.svg",
+      "departureCity": "Стамбул, Турция",
+      "arrivalCity": "Нью-Йорк, США",
+      "departureTime": "13.00",
+      "arrivalTime": "20.00",
+      "travelTime": "7 ч 00 м"
+    }
+  ],
+  "StambulLondon": [],
+  "selected": []
+}

@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="description" content="Starter">
+	<meta name="author" content="Admin">
+	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+	<title>Poltava Air</title>
+
+	<link rel="icon" href="images/favicon.png">
+	<link href="https://fonts.googleapis.com/css?family=PT+Sans|Raleway" rel="stylesheet">
+	<link rel="stylesheet" href="css/styles.min.css">
+
+	<!--[if lt IE 9]>
+	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<header class="header">
+		<div class="header__container">
+			<div class="head d-flex justify-content-between align-items-center">
+				<img src="images/main-logo.svg" alt="logo" class="head__logo">
+				<p class="head__text">Международный аэропорт Полтава</p>
+				<a href="tel:+3800532502415" class="head__tel">+38(0532)50-24-15</a>
+				<a href="" class="head__login">Войти</a>
+				<div class="head__lang">
+					<button class="head__lang-btn btn shadow-sm">EN</button>
+					<button class="head__lang-btn btn shadow-sm">RU</button>
+				</div>
+			</div>
+			<h1 class="head__title text-center">Поиск Авиабилетов</h1>
+
+			<div class="forms">
+				 <select name="departureCity" id="departureCity" class="field">
+					<option value="Город вылета" disabled="disabled" selected="selected" class="option">Город вылета</option>
+					<option value="Полтава" class="option">Полтава</option>
+					<option value="Киев" >Киев</option>
+					<option value="Харьков" >Харьков</option>
+					<option value="Нью-Йорк" >Нью-Йорк</option>
+					<option value="Лондон" >Лондон</option>
+					<option value="Стамбул" >Стамбул</option>
+					<option value="Анкара" >Анкара</option>
+				</select>
+				<select name="arrivalCity" id="arrivalCity" class="field">
+					<option value="Город прибытия" disabled="disabled" selected="selected" class="option">Город прибытия</option>
+					<option value="Полтава" class="option">Полтава</option>
+					<option value="Киев" >Киев</option>
+					<option value="Харьков" >Харьков</option>
+					<option value="Нью-Йорк" >Нью-Йорк</option>
+					<option value="Лондон" >Лондон</option>
+					<option value="Стамбул" >Стамбул</option>
+					<option value="Анкара" >Анкара</option>
+				</select>
+				<p class="calendar__holder calendar__holder-dep"><input type="text" id="departureDate" name="departureDate" placeholder="Дата Вылета" class="ui-button field"></p>
+				<p class="calendar__holder calendar__holder-arr"><input type="text" id="returnDate" name="returnDate" placeholder="Дата Возвращения" class="ui-button field"></p>
+				<div class="controlgroup d-flex flex-column align-items-center">
+					<button type="button" class="controlgroupBtn ui-button">Колличество</button>
+					
+						<div class="controlgroupPanel">
+							<p class="d-flex">
+								<label for="spinner" class="label-quantity">
+									  <i class="passangers__title">Взрослый</i>
+									  <i class="passangers__description">Старше 14 лет</i>
+								</label>
+								<input id="spinner" name="passangers" placeholder="0">
+							</p>
+							<p class="d-flex">
+								<label for="spinner2" class="label-quantity">
+									  <i class="passangers__title">Ребенок</i>
+									  <i class="passangers__description">От 2 до 14 лет</i>
+								</label>
+								<input id="spinner2" name="passangers" placeholder="0">
+							</p>
+							<p class="d-flex">
+								<label for="spinner3" class="label-quantity">
+									  <i class="passangers__title">Младенец</i>
+									  <i class="passangers__description">До 2 лет без места</i>
+								</label>
+								<input id="spinner3" name="passangers" placeholder="0">
+							</p>
+							<p class="d-flex">
+								<label for="radio-1" class="label-radio">економ</label>
+								<input type="radio" name="class" id="radio-1" value="економ">
+								<label for="radio-2" class="label-radio">бизнес</label>
+								<input type="radio" name="class" id="radio-2" value="бизнес">
+							</p>
+							<button type="button" class="controlBtn align-self-end">OK</button>
+						</div>
+					
+					
+					</div>
+				
+			</div>
+			<button type="button" class="header__tickets">Найти билеты</button>		
+		</div>
+	</header>
+	<section class="advantages">
+		<h2 class="advantages__title">Наши Преимущества</h2>
+		<div class="advantages__container d-flex justify-content-between">
+			<div class="advantages__item d-flex flex-column">
+				<img src="images/place.svg" alt="place" class="advantages__item-img advantages__item-img--first">
+				<h3 class="advantages__item-title">Удобное Месторасположение</h3>
+				<p class="advantages__item-description">
+					Международный аэропорт Полтава  расположен в 7 км  к западу от г. Полтава и в 1 км к югу от населённого пункта Ивашки. Расположен рядом   с трассой Киев-Полтава. Мы развиваем инфраструктуру, привлекаем новые авиакомпании.
+				</p>
+			</div>
+			<div class="advantages__item d-flex flex-column">
+				<img src="images/search.svg" alt="search" class="advantages__item-img">
+				<h3 class="advantages__item-title">Удобный поиск билетов</h3>
+				<p class="advantages__item-description">
+					Чтобы найти интересующий вас рейс, Вам необходимо заполнить форму поиска авиабилетов, обязательно указав направление перелета, даты, количество пассажиров, после чего нажать «Найти Билеты».электронная система поиска подберет  варианты.
+
+				</p>
+			</div>
+			<div class="advantages__item d-flex flex-column">
+				<img src="images/money.svg" alt="money" class="advantages__item-img">
+				<h3 class="advantages__item-title">Низкие цены на авиабилеты</h3>
+				<p class="advantages__item-description">
+					У нас актуальная информация по авиарейсам из Международного аэропорта Полтава (PLV).  Так же на сайте вы можете найти авиабилеты по любому интересующему вам направлению и по самым низким и выгодным ценам.
+				</p>
+			</div>
+				<div class="advantages__item d-flex flex-column">
+				<img src="images/user.svg" alt="user" class="advantages__item-img advantages__item-img--last">
+				<h3 class="advantages__item-title">Качественный сервис</h3>
+				<p class="advantages__item-description">
+					Вас ждет достойный уровень сервиса.Это значит, что Вы сможете спокойно и с комфортом пройти регистрацию на рейс или онлайн на интернет-сайте авиакомпании-перевозчика при наличии электронного билета.
+				</p>
+			</div>
+		</div>
+	</section>
+	<section class="news">
+		<h2 class="news__title">Новости</h2>
+		<div class="news__slider d-flex">
+			<div class="news__slider-item">
+				<h3 class="slider__item-title">
+					Кабмин присвоил статус международного аэропорта Полтавы.
+				</h3>
+				<div class="slider__item-body d-flex flex-column justify-content-between">
+					<p class="slider__item-date">
+						17 декабря 2017
+					</p>
+					<p class="slider__item-txt">
+						Об этом сообщил министр инфраструктуры Владимир Омелян в Facebook.
+					</p>
+					<p class="slider__item-txt">
+						Ранее власти Полтавской области отмечали, что получение статуса международного позволит открыть авиарейсы из Полтавы в Грузию, Азербайджан, Турцию, Польшу, Арабские Эмираты, Египет и другие страны.
+					</p>
+					<p class="slider__item-txt">
+						Аэропорт Полтава имеет на балансе пассажирский терминал общей площадью около 5 тыс. кв. м и проектной пропускной мощностью 400 пассажиров в час.
+					</p>
+					<p class="slider__item-txt">	
+						В аэропорту есть взлетно-посадочная полоса длиной 2550 м и шириной 42 м, оборудована светосигнальная система посадки самолетов.
+					</p>
+					<a href="#" class="slider__item-link align-self-end">Подробнее</a>
+				</div>
+			</div>
+			<div class="news__slider-item">
+				<h3 class="slider__item-title">
+					На борту Як-40 прилетели иностранные туристы. 
+				</h3>
+				<div class="slider__item-body d-flex flex-column justify-content-between">
+					<p class="slider__item-date">
+						29 июля 2018
+					</p>
+					<p class="slider__item-txt">
+						Сегодня, 29 июля, в аэропорту "Полтава" впервые после реконструкции приземлился пассажирский рейс. Пока – внутренний.
+					</p>
+					<p class="slider__item-txt">
+						Как сообщает агентство "Новости Полтавщины", на самолете Як-40 прилетели несколько десятков иностранных туристов из Запорожья..
+					</p>
+					<p class="slider__item-txt">
+						Командир самолета Александр Жигалов рассказал изданию, что в последний раз прилетал в Полтаву 30 лет назад и аэропорт сейчас улучшился.
+					</p>
+					<p class="slider__item-txt">	
+						Как сообщил генеральный директор аэропорта "Полтава" Владимир Окара, прилетели туристы с ближнего и дальнего зарубежья – США, Канада, Китай, Европа. После посещения Полтавы туристы полетят в Кривой Рог и вернутся в Запорожье. 
+					</p>
+					<a href="#" class="slider__item-link align-self-end">Подробнее</a>
+				</div>
+			</div>
+			<div class="news__slider-item">
+				<h3 class="slider__item-title">
+					Кабмин присвоил статус международного аэропорта Полтавы.
+				</h3>
+				<div class="slider__item-body d-flex flex-column justify-content-between">
+					<p class="slider__item-date">
+						17 декабря 2017
+					</p>
+					<p class="slider__item-txt">
+						Об этом сообщил министр инфраструктуры Владимир Омелян в Facebook.
+					</p>
+					<p class="slider__item-txt">
+						Ранее власти Полтавской области отмечали, что получение статуса международного позволит открыть авиарейсы из Полтавы в Грузию, Азербайджан, Турцию, Польшу, Арабские Эмираты, Египет и другие страны.
+					</p>
+					<p class="slider__item-txt">
+						Аэропорт Полтава имеет на балансе пассажирский терминал общей площадью около 5 тыс. кв. м и проектной пропускной мощностью 400 пассажиров в час.
+					</p>
+					<p class="slider__item-txt">	
+						В аэропорту есть взлетно-посадочная полоса длиной 2550 м и шириной 42 м, оборудована светосигнальная система посадки самолетов.
+					</p>
+					<a href="#" class="slider__item-link align-self-end">Подробнее</a>
+				</div>
+			</div>
+			<div class="news__slider-item">
+				<h3 class="slider__item-title">
+					На борту Як-40 прилетели иностранные туристы. 
+				</h3>
+				<div class="slider__item-body d-flex flex-column justify-content-between">
+					<p class="slider__item-date">
+						29 июля 2018
+					</p>
+					<p class="slider__item-txt">
+						Сегодня, 29 июля, в аэропорту "Полтава" впервые после реконструкции приземлился пассажирский рейс. Пока – внутренний.
+					</p>
+					<p class="slider__item-txt">
+						Как сообщает агентство "Новости Полтавщины", на самолете Як-40 прилетели несколько десятков иностранных туристов из Запорожья..
+					</p>
+					<p class="slider__item-txt">
+						Командир самолета Александр Жигалов рассказал изданию, что в последний раз прилетал в Полтаву 30 лет назад и аэропорт сейчас улучшился.
+					</p>
+					<p class="slider__item-txt">	
+						Как сообщил генеральный директор аэропорта "Полтава" Владимир Окара, прилетели туристы с ближнего и дальнего зарубежья – США, Канада, Китай, Европа. После посещения Полтавы туристы полетят в Кривой Рог и вернутся в Запорожье. 
+					</p>
+					<a href="#" class="slider__item-link align-self-end">Подробнее</a>
+				</div>
+			</div>
+		</div>
+		<div class="news__mobile">
+			<div class="news__slider-item">
+				<h3 class="slider__item-title">
+					Кабмин присвоил статус международного аэропорта Полтавы.
+				</h3>
+				<div class="slider__item-body d-flex flex-column justify-content-between">
+					<p class="slider__item-date">
+						17 декабря 2017
+					</p>
+					<p class="slider__item-txt">
+						Об этом сообщил министр инфраструктуры Владимир Омелян в Facebook.
+					</p>
+					<p class="slider__item-txt">
+						Ранее власти Полтавской области отмечали, что получение статуса международного позволит открыть авиарейсы из Полтавы в Грузию, Азербайджан, Турцию, Польшу, Арабские Эмираты, Египет и другие страны.
+					</p>
+					
+					<a href="#" class="slider__item-link align-self-end">Подробнее</a>
+				</div>
+			</div>
+			<div class="news__slider-item">
+				<h3 class="slider__item-title">
+					На борту Як-40 прилетели иностранные туристы. 
+				</h3>
+				<div class="slider__item-body d-flex flex-column justify-content-between">
+					<p class="slider__item-date">
+						29 июля 2018
+					</p>
+					<p class="slider__item-txt">
+						Сегодня, 29 июля, в аэропорту "Полтава" впервые после реконструкции приземлился пассажирский рейс. Пока – внутренний.
+					</p>
+					<p class="slider__item-txt">
+						Как сообщает агентство "Новости Полтавщины", на самолете Як-40 прилетели несколько десятков иностранных туристов из Запорожья..
+					</p>
+					
+					<a href="#" class="slider__item-link align-self-end">Подробнее</a>
+				</div>
+			</div>
+			<div class="news__slider-item">
+				<h3 class="slider__item-title">
+					Кабмин присвоил статус международного аэропорта Полтавы.
+				</h3>
+				<div class="slider__item-body d-flex flex-column justify-content-between">
+					<p class="slider__item-date">
+						17 декабря 2017
+					</p>
+					<p class="slider__item-txt">
+						Об этом сообщил министр инфраструктуры Владимир Омелян в Facebook.
+					</p>
+					<p class="slider__item-txt">
+						Ранее власти Полтавской области отмечали, что получение статуса международного позволит открыть авиарейсы из Полтавы в Грузию, Азербайджан, Турцию, Польшу, Арабские Эмираты, Египет и другие страны.
+					</p>
+					
+					<a href="#" class="slider__item-link align-self-end">Подробнее</a>
+				</div>
+			</div>
+			<div class="news__slider-item">
+				<h3 class="slider__item-title">
+					На борту Як-40 прилетели иностранные туристы. 
+				</h3>
+				<div class="slider__item-body d-flex flex-column justify-content-between">
+					<p class="slider__item-date">
+						29 июля 2018
+					</p>
+					<p class="slider__item-txt">
+						Сегодня, 29 июля, в аэропорту "Полтава" впервые после реконструкции приземлился пассажирский рейс. Пока – внутренний.
+					</p>
+					<p class="slider__item-txt">
+						Как сообщает агентство "Новости Полтавщины", на самолете Як-40 прилетели несколько десятков иностранных туристов из Запорожья..
+					</p>
+					
+					<a href="#" class="slider__item-link align-self-end">Подробнее</a>
+				</div>
+			</div>
+		</div>
+	</section>
+	<footer class="footer d-flex justify-content-between">
+		<div class="footer__item d-flex flex-column">
+			<a href="#" class="footer__item-title">Пассажирам</a>
+			<a href="#" class="footer__item-link">Популярные авиарейсы</a>
+			<a href="#" class="footer__item-link">Купить авиабилеты</a>
+			<a href="#" class="footer__item-link">Регистрация на рейс</a>
+			<a href="#" class="footer__item-link">Пассажирам с детьми</a>
+			<a href="#index4.html" class="footer__item-link">Дети без сопровождения</a>
+			<a href="#" class="footer__item-link">Авиабезопасность</a>
+			<a href="#" class="footer__item-link">Перевозка животных и растений</a>
+		</div>
+		<div class="footer__item d-flex flex-column">
+			<a href="#" class="footer__item-title">Аэропорт</a>
+			<a href="#" class="footer__item-link">Общая Информация</a>
+			<a href="#" class="footer__item-link">Обратная связь</a>
+			<a href="#" class="footer__item-link">Авиакомпании</a>
+			<a href="#" class="footer__item-link">Вакансии</a>
+			<a href="#" class="footer__item-link">карта аэропорта</a>
+		</div>
+		<div class="footer__item d-flex flex-column">
+			<a href="#" class="footer__item-title">Партнерам</a>
+			<a href="#" class="footer__item-link">Авиакомпаниям</a>
+			<a href="#" class="footer__item-link">Грузовые перевозки</a>
+			<a href="#" class="footer__item-link">Рекламодателям</a>
+			<a href="#" class="footer__item-link">Арендаторам</a>
+		</div>
+	</footer>
+
+
+
+
+	<script src="js/main.js"></script>
+</body>
+</html>
